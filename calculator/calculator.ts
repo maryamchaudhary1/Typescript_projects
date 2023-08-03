@@ -21,7 +21,7 @@ let b = parseInt (secondNumber); // 'parseInt' function is used to convert strin
 
 if (operation == '+') {
     let addition = a + b;
-    console.log(`The addition of ${a} and ${b} is : ${addition}`);
+    console.log(`The addition of ${a} and ${b} is : ${addition}`); // addition
 } else if (operation == '-') {
     let subtraction = a - b;
     console.log(`The subtraction of ${a} and ${b} is : ${subtraction}`);
